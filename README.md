@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey there 👋🏎️
 
-<!--
-**dawidkantowicz/dawidkantowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Dawid**, a cybersecurity student focused on automotive security.
 
-Here are some ideas to get you started:
+I'm documenting my journey, notes, and projects here on GitHub. Most of
+my work leans on Python and Bash, and I'm expanding into C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/dawidkantowicz/)
+
+## Fun facts
+
+- Into weightlifting and building cool stuff
+- Language-learning enthusiast (currently on German and Korean)
+- Powered by coffee and curiosity
